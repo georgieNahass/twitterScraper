@@ -1,5 +1,5 @@
 # twitterScraper
-Search twitter for tweets based on user inputted preferences. Uses GetOldTweets3 library
+Search twitter for tweets based on user inputted preferences. Uses GetOldTweets3 library. Only detects tweets from hourly intervals but fixing soon
 
 ### Dependencies
 
