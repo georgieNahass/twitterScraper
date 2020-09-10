@@ -43,4 +43,4 @@ Output will be in HTML file in working directory
 
 ### References
 [1] https://medium.com/@AIY/getoldtweets3-830ebb8b2dab \
-[2] https://pypi.org/project/GetOldTweets3/ \
+[2] https://pypi.org/project/GetOldTweets3/ 
