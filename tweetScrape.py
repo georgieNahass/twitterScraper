@@ -34,5 +34,4 @@ class Scrape ():
         pd.set_option('display.width', None)
         pd.set_option('display.max_colwidth', None)        
         tweets_df = pd.DataFrame(text_tweets, columns = ['date','tweet', 'Username', 'Favorites', 'Retweets', 'Mentions', 'HashTags'])
-        print (self.top)
         tweets_df.to_html('scrapeOutput!.html')
